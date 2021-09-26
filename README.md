@@ -1,2 +1,2 @@
 # SolarSystemProj
-Solar System Project, one of the first test project in Unity.
+Solar System Project, one of the first test project in Unity - Archived.
